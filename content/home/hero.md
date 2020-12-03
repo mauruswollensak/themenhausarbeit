@@ -20,8 +20,8 @@ hero_media = "pen.svg"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  gradient_start = "#22c1c3"
+  gradient_end = "#fdbb2d"
   
   # Background image.
   # image = ""  # Name of image in `static/media/`.
