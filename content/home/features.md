@@ -26,7 +26,7 @@ title = "Was du erwarten kannst:"
 [[feature]]
   icon = "list-alt"
   icon_pack = "fas"
-  name = "Eine "To Do" Liste"
+  name = "Eine To Do Liste"
 
 # Uncomment to use emoji icons.
 # [[feature]]
