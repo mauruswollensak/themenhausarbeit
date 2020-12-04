@@ -20,7 +20,7 @@ Sowohl für selbstgewählte als auch für vergebene Themen gilt: in der Masse de
 |Klabbers (2021) International Law || [GVK](https://kxp.k10plus.de/DB=2.1/SET=5/TTL=4/SHW?FRST=1/PRS=HOL)
 |Shaw (2017) International Law|Neue Auflage wird im Mai 2021 erwartet.| [GVK](https://kxp.k10plus.de/DB=2.1/SET=6/TTL=1/SHW?FRST=2/PRS=HOL)
 |Stein, von Buttlar, Kotzur (2017) Völkerrecht|| [GVK](https://kxp.k10plus.de/DB=2.1/SET=7/TTL=2/SHW?FRST=2/PRS=HOL)/ [GVK](https://kxp.k10plus.de/DB=2.1/SET=7/TTL=2/SHW?FRST=1/PRS=HOL)
-|UNOLA (2015) The International Law Handbook|Kostenlos online über die UN verfügbar.| [UN OLA](https://legal.un.org/avl/handbook.html)
+|UNOLA (2015) The International Law Handbook|Kostenlos [online](https://legal.un.org/avl/handbook.html) über die UN verfügbar.|
 |Vitzthum & Proelß (Hrsg.) (2019) Völkerrecht|Zu Beginn eines jeden Kapitels sind ausgiebig einschlägige Literatur, Rechtsprechung und Vertragswerke aufgeführt.| [GVK](https://kxp.k10plus.de/DB=2.1/SET=9/TTL=2/SHW?FRST=2/PRS=HOL)/ [GVK](https://kxp.k10plus.de/DB=2.1/SET=9/TTL=2/SHW?FRST=1/PRS=HOL)
 |von Arnauld (2019) Völkerrecht|Bietet weitergehende Literaturhinweise zu jedem Kapitel.| [GVK](https://kxp.k10plus.de/DB=2.1/SET=10/TTL=2/SHW?FRST=3/PRS=HOL)/ [GVK](https://kxp.k10plus.de/DB=2.1/SET=10/TTL=2/SHW?FRST=2/PRS=HOL)
 |Hobe (2020) Einführung in das Völkerrecht| | [GVK](https://kxp.k10plus.de/DB=2.1/SET=11/TTL=2/SHW?FRST=3/PRS=HOL)/ [GVK](https://kxp.k10plus.de/DB=2.1/SET=11/TTL=2/SHW?FRST=2/PRS=HOL)
