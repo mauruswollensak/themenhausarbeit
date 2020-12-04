@@ -1,6 +1,6 @@
 ---
 title: Wo finde ich Quellen?
-linktitle: Reading List
+linktitle: Wo finde ich Quellen?
 type: book
 date: 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
