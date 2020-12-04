@@ -10,10 +10,10 @@
 
 [[main]]
   name = "Handwerkszeug"
-  url = "docs/chapter1/"
+  url = "docs/handwerkszeug/"
   weight = 20
 
 [[main]]
   name = "Quellenhinweise"
-  url = "docs/chapter2/"
+  url = "docs/quellenhinweise/"
   weight = 30
