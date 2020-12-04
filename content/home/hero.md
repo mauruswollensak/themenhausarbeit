@@ -17,7 +17,7 @@ hero_media = "pen.svg"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  color = "#E0E0E2"
   
   # Background gradient.
   gradient_start = "#E98A15"
