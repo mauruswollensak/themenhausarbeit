@@ -7,3 +7,8 @@
   name = "Handwerkszeug – Formalia"
   url = "docs/chapter1/"
   weight = 10
+
+[[main]]
+  name = "Quellenhinweise"
+  url = "docs/chapter2/"
+  weight = 20
