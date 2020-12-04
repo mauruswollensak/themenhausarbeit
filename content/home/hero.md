@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "ThemenHausarbeit.de"
+title = "themenhausarbeit.de"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "book.svg"
@@ -17,11 +17,11 @@ hero_media = "book.svg"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#E0E0E2"
+  color = "#E98A15"
   
   # Background gradient.
-  gradient_start = "#E98A15"
-  gradient_end = "#69140E"
+  # gradient_start = "#E98A15"
+  # gradient_end = "#69140E"
   
   # Background image.
   # image = ""  # Name of image in `static/media/`.
