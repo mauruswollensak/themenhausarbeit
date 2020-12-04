@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-linktitle: Quellenhinweise
+linktitle: Quellenarbeit
 summary: Hier findest du Quellen für deine Hausarbeit.
 weight: 20
 icon: search
