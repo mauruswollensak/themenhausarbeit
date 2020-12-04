@@ -51,4 +51,4 @@ hero_media = "pen.svg"
 #  label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Show your product version here:<!-- V --></span>'
 +++
 
-Deine Adresse für die Vorbereitung auf eine Themenhausarbeit im Völkerrecht.
+Deine Adresse für die Vorbereitung auf eine Themenhausarbeit im Völkerrecht (die Webseite ist aktuell noch im Aufbau).
