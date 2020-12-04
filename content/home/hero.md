@@ -21,7 +21,7 @@ hero_media = "pen.svg"
   
   # Background gradient.
   gradient_start = "#E98A15"
-  gradient_end = "#6B6D76"
+  gradient_end = "#69140E"
   
   # Background image.
   # image = ""  # Name of image in `static/media/`.
