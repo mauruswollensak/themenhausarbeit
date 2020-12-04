@@ -1,7 +1,6 @@
 ---
 # Title, summary, and page position.
 linktitle: Handwerkszeug
-summary: Handwerkszeug
 weight: 20
 icon: toolbox
 icon_pack: fas

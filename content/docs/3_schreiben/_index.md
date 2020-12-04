@@ -1,7 +1,6 @@
 ---
 # Title, summary, and page position.
 linktitle: Schreiben
-summary: Schreiben
 weight: 30
 icon: pen
 icon_pack: fas
