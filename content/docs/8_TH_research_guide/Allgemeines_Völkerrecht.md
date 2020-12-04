@@ -12,15 +12,15 @@ Sowohl für selbstgewählte als auch für vergebene Themen gilt: in der Masse de
 
 ## Bücher
 
-Autor*in| Titel | Jahr | Besonderheit | analog/digital
---------| ------| -----------------| -------| --------
-Crawford|Brownlie’s Principles of Public International Law| 2019|gegenüber einem deutschen Kurzlehrbuch vertiefterer Einstieg, besonders für Case Law interessant|[GVK](https://kxp.k10plus.de/DB=2.1/SET=1/TTL=1/SHW?FRST=5/PRS=HOL)/[GVK](https://kxp.k10plus.de/DB=2.1/SET=1/TTL=1/SHW?FRST=3/PRS=HOL)
-Hernandez|International Law| 2019| kostenloser Zugriff auf erweiterten [digitalen Content](https://learninglink.oup.com/access/hernandez-resources#tag_all-chapters)| [GVK](https://kxp.k10plus.de/DB=2.1/SET=3/TTL=1/SHW?FRST=2/PRS=HOL)
-Ipsen (Hrsg.)|Völkerrecht|2018|ausführlicherer Einstieg ins Thema, Vorsicht geboten beim Zitieren: unterschiedliche Autor*innen| [GVK](https://kxp.k10plus.de/DB=2.1/SET=4/TTL=4/PRS=HOL/SHW?FRST=4&HILN=22#22)
-Klabbers| International Law| 2021| | [GVK](https://kxp.k10plus.de/DB=2.1/SET=5/TTL=4/SHW?FRST=1/PRS=HOL)
-Shaw|International Law|2017|neue Auflage wird im Mai 2021 erwartet| [GVK](https://kxp.k10plus.de/DB=2.1/SET=6/TTL=1/SHW?FRST=2/PRS=HOL)
-Stein, von Buttlar, Kotzur|Völkerrecht|2017|| [GVK](https://kxp.k10plus.de/DB=2.1/SET=7/TTL=2/SHW?FRST=2/PRS=HOL)/[GVK](https://kxp.k10plus.de/DB=2.1/SET=7/TTL=2/SHW?FRST=1/PRS=HOL)
-UNOLA|The International Law Handbook|2015|kostenlos online über die UN verfügbar| [Legal UN](https://legal.un.org/avl/handbook.html)
-Vitzthum & Proelß (Hrsg.)| Völkerrecht|2019|| [GVK](https://kxp.k10plus.de/DB=2.1/SET=9/TTL=2/SHW?FRST=2/PRS=HOL)/[GVK](https://kxp.k10plus.de/DB=2.1/SET=9/TTL=2/SHW?FRST=1/PRS=HOL)
-von Arnauld|Völkerrecht|2019|bietet weitergehende Literaturhinweise zu jedem Kapitel| [GVK](https://kxp.k10plus.de/DB=2.1/SET=10/TTL=2/SHW?FRST=3/PRS=HOL)/[GVK](https://kxp.k10plus.de/DB=2.1/SET=10/TTL=2/SHW?FRST=2/PRS=HOL)
-Hobe| Einführung in das Völkerrecht|2020| | [GVK](https://kxp.k10plus.de/DB=2.1/SET=11/TTL=2/SHW?FRST=3/PRS=HOL)/[GVK](https://kxp.k10plus.de/DB=2.1/SET=11/TTL=2/SHW?FRST=2/PRS=HOL)
+|Autor*in|  Besonderheit | analog/digital
+|--------| -------| --------
+|Crawford (2019) Brownlie’s Principles of Public International Law |Gegenüber einem deutschen Kurzlehrbuch vertiefterer Einstieg, besonders für Case Law interessant.|[GVK](https://kxp.k10plus.de/DB=2.1/SET=1/TTL=1/SHW?FRST=5/PRS=HOL)/[GVK](https://kxp.k10plus.de/DB=2.1/SET=1/TTL=1/SHW?FRST=3/PRS=HOL)
+|Hernandez (2019) International Law| Kostenloser Zugriff auf erweiterten [digitalen Content](https://learninglink.oup.com/access/hernandez-resources#tag_all-chapters).| [GVK](https://kxp.k10plus.de/DB=2.1/SET=3/TTL=1/SHW?FRST=2/PRS=HOL)
+|Ipsen (Hrsg.) (2018) Völkerrecht|Ausführlicherer Einstieg ins Thema. Vorsicht geboten beim Zitieren: unterschiedliche Autor*innen.| [GVK](https://kxp.k10plus.de/DB=2.1/SET=4/TTL=4/PRS=HOL/SHW?FRST=4&HILN=22#22)
+|Klabbers (2021) International Law || [GVK](https://kxp.k10plus.de/DB=2.1/SET=5/TTL=4/SHW?FRST=1/PRS=HOL)
+|Shaw (2017) International Law|Neue Auflage wird im Mai 2021 erwartet.| [GVK](https://kxp.k10plus.de/DB=2.1/SET=6/TTL=1/SHW?FRST=2/PRS=HOL)
+|Stein, von Buttlar, Kotzur (2017) Völkerrecht|| [GVK](https://kxp.k10plus.de/DB=2.1/SET=7/TTL=2/SHW?FRST=2/PRS=HOL)/[GVK](https://kxp.k10plus.de/DB=2.1/SET=7/TTL=2/SHW?FRST=1/PRS=HOL)
+|UNOLA (2015) The International Law Handbook|Kostenlos online über die UN verfügbar.| [Legal UN](https://legal.un.org/avl/handbook.html)
+|Vitzthum & Proelß (Hrsg.) (2019) Völkerrecht|Zu Beginn eines jeden Kapitels sind ausgiebig einschlägige Literatur, Rechtsprechung und Vertragswerke aufgeführt.| [GVK](https://kxp.k10plus.de/DB=2.1/SET=9/TTL=2/SHW?FRST=2/PRS=HOL)/[GVK](https://kxp.k10plus.de/DB=2.1/SET=9/TTL=2/SHW?FRST=1/PRS=HOL)
+|von Arnauld (2019) Völkerrecht|Bietet weitergehende Literaturhinweise zu jedem Kapitel.| [GVK](https://kxp.k10plus.de/DB=2.1/SET=10/TTL=2/SHW?FRST=3/PRS=HOL)/[GVK](https://kxp.k10plus.de/DB=2.1/SET=10/TTL=2/SHW?FRST=2/PRS=HOL)
+|Hobe (2020) Einführung in das Völkerrecht| | [GVK](https://kxp.k10plus.de/DB=2.1/SET=11/TTL=2/SHW?FRST=3/PRS=HOL)/[GVK](https://kxp.k10plus.de/DB=2.1/SET=11/TTL=2/SHW?FRST=2/PRS=HOL)
