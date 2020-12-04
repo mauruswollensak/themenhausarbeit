@@ -1,10 +1,16 @@
 ---
+# Title, summary, and page position.
+linktitle: Impressum
+summary: Impressum
+weight: 90
+icon: gavel
+icon_pack: fas
+
+# Page metadata.
 title: Impressum
-linktitle: impressum
-type: book
-weight: 40
+date: 2020
+type: book  # Do not modify.
 ---
-# Impressum
 ## Angaben gemäß § 5 TMG
 
 Maurus Wollensak  
