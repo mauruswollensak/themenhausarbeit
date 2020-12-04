@@ -22,3 +22,8 @@
   name = "Schreiben"
   url = "docs/3_schreiben/"
   weight = 40
+
+[[main]]
+  name = "Impressum"
+  url = "home/impressum/"
+  weight = 50

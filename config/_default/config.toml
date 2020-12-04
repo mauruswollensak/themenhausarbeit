@@ -14,7 +14,7 @@ baseurl = "https://themenhausarbeit.de/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy; Maurus Wollensak {year} | [Impressum](home/impressum)"
+copyright = "&copy; Maurus Wollensak {year} | [Impressum](home/impressum/)"
 
 ############################
 ## Advanced options below ##
