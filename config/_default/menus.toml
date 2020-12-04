@@ -25,5 +25,5 @@
 
 [[main]]
   name = "Impressum"
-  url = "home/impressum/"
+  url = "docs/impressum/"
   weight = 50

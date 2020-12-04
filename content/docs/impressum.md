@@ -2,6 +2,7 @@
 title: Impressum
 linktitle: impressum
 type: book
+weight: 40
 ---
 # Impressum
 ## Angaben gemäß § 5 TMG
