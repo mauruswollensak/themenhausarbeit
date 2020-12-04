@@ -9,11 +9,16 @@
   weight = 10
 
 [[main]]
-  name = "Handwerkszeug"
-  url = "docs/handwerkszeug/"
+  name = "Quellenarbeit"
+  url = "docs/1_quellenarbeit/"
   weight = 20
 
 [[main]]
-  name = "Quellenarbeit"
-  url = "docs/quellenarbeit/"
+  name = "Handwerkszeug"
+  url = "docs/2_handwerkszeug/"
   weight = 30
+
+[[main]]
+  name = "Schreiben"
+  url = "docs/3_schreiben/"
+  weight = 40
