@@ -4,11 +4,16 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
+  name = "Willkommen"
+  url = "docs/"
+  weight = 10
+
+[[main]]
   name = "Handwerkszeug – Formalia"
   url = "docs/chapter1/"
-  weight = 10
+  weight = 20
 
 [[main]]
   name = "Quellenhinweise"
   url = "docs/chapter2/"
-  weight = 20
+  weight = 30
