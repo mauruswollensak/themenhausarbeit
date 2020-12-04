@@ -1,6 +1,7 @@
 ---
 title: Impressum
 linktitle: impressum
+type: book
 ---
 # Impressum
 ## Angaben gemäß § 5 TMG
