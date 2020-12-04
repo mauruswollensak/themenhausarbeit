@@ -24,6 +24,11 @@
   weight = 40
 
 [[main]]
+  name = "TH Research Guide"
+  url = "docs/8_TH_research_guide/"
+  weight = 80
+
+[[main]]
   name = "Impressum"
   url = "docs/9_impressum/"
   weight = 90
