@@ -17,11 +17,11 @@ hero_media = "book.svg"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#E98A15"
+  # color = "#E98A15"
   
   # Background gradient.
-  # gradient_start = "#E98A15"
-  # gradient_end = "#69140E"
+  gradient_start = "#E98A15"
+  gradient_end = "#D98014"
   
   # Background image.
   # image = ""  # Name of image in `static/media/`.
