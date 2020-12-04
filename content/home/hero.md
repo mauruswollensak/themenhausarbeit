@@ -21,7 +21,7 @@ hero_media = "book.svg"
   
   # Background gradient.
   gradient_start = "#E98A15"
-  gradient_end = "#D98014"
+  gradient_end = "#A94F12"
   
   # Background image.
   # image = ""  # Name of image in `static/media/`.
