@@ -16,6 +16,7 @@ title = "Was du erwarten kannst:"
 [[feature]]
   icon = "question"
   icon_pack = "fas"
+  color = "red"
   name = "Antworten auf viele Fragen"
   
 [[feature]]
