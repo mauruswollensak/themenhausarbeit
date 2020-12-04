@@ -1,13 +1,12 @@
 ---
 # Title, summary, and page position.
-linktitle: Impressum
-summary: Impressum
+linktitle: Kontakt und Impressum
 weight: 90
 icon: gavel
 icon_pack: fas
 
 # Page metadata.
-title: Impressum
+title: Kontakt und Impressum
 date: 2020
 type: book  # Do not modify.
 ---

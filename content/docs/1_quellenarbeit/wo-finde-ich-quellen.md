@@ -6,13 +6,10 @@ type: book
 date: 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 11
+draft: true
 ---
 
 Autor: Maurus Wollensak
-
-## Allgemeine Erwägungen
-
-
 
 ## Fundstellen
 ### Forschungsleitfäden (*Research Guides*)
@@ -28,4 +25,4 @@ Bei Forschungsleitfäden handelt es sich um Zusammenstellungen von wichtigen Mat
 
 Hierbei handelt es sich um um ein Verzeichnis von Quellen (regelmäßig Bücher) zu einem bestimmten Thema. Häufig ist es das Ziel, alle Publikationen aus einem Bereich zu dokumentieren.
 
-* 
+* [Oxford Bibliographies - International Law](https://www.oxfordbibliographies.com/browse?module_0=obo-9780199796953)
