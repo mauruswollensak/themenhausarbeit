@@ -12,4 +12,4 @@ date:
 type: book  # Do not modify.
 ---
 
-
+Der wohl anspruchsvollste Aspekt im Herstellen der eigenen Arbeit ist das Schreiben des Textes. Diese Sektion soll dabei helfen, eine gute Basis für die Verschriftlichung zu erarbeiten.

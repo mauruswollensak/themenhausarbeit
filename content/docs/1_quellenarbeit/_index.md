@@ -11,5 +11,6 @@ title: Quellenarbeit
 date: 
 type: book  # Do not modify.
 ---
+Autor: Maurus Wollensak
 
-So findest du Quellen.
+Dieser Bereich widmet sich der Frage, wie hilfreiche Quellen zur Erstellung der Hausarbeit gefunden werden können. Eine Themenhausarbeit ist zwar keine keine Promotion, aber eine anständige Auswertung der gegenwärtigen Quellenlage wird dennoch vorausgesetzt.
