@@ -9,7 +9,7 @@
   weight = 10
 
 [[main]]
-  name = "Handwerkszeug – Formalia"
+  name = "Handwerkszeug"
   url = "docs/chapter1/"
   weight = 20
 
