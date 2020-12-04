@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Handwerkszeug – Formalia
 summary: Handwerkszeug – Formalia
-weight: 1
+weight: 10
 icon: toolbox
 icon_pack: fas
 

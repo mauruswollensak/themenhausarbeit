@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Quellenhinweise
 summary: Hier findest du Quellen für deine Hausarbeit.
-weight: 2
+weight: 20
 icon: search
 icon_pack: fas
 
