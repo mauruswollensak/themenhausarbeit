@@ -8,9 +8,14 @@ weight: 81
 ---
 Autorin: Laura-Theresa Godau
 
+## Allgemeines
+
 Sowohl für selbstgewählte als auch für vergebene Themen gilt: in der Masse der Literatur ist man schnell verloren und weiß oft gar nicht, wie der beste Einstieg zu finden ist. Unten aufgelistet sind daher einige Werke, die insbesondere im allgemeinen Völkerrecht, aber auch als Einstieg in besondere Bereich, eine Orientierung versprechen. Für den Einstieg in eine englischsprachige Themenhausarbeit bietet es sich daher besonders an mit z.B. Crawfords Brownlie's Principles zu starten, um sich einen Überblick über die Terminologie zu verschaffen. Als Standardwerk kann von Arnaulds Lehrbuch einen guten Überblick über sonstige (Standard-)Literatur zum eigenen Thema bieten. Die Autor*innen, die sich im Ipsen mit den jeweiligen Teilbereichen beschäftigen, können einen guten Ausgangspunkt für von ihnen verfasste Texte im Bereich darstellen.
 
+## Andere Forschungsleitfäden
+
 ## Bücher
+<!-- Links bearbeiten -->
 
 |Autor*in|  Besonderheit | analog/digital
 |--------| -------| --------

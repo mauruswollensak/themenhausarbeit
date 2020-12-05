@@ -11,4 +11,4 @@ type: book  # Do not modify.
 weight: 80
 ---
 
-Obgleich es viele Forschungsleitfäden für das Völkerrecht gibt, möchten wir trotzdem einige allgemeine Quellen sammeln, die sich besonders gut für einen Einstieg eignen.
+Obgleich es viele Forschungsleitfäden für das Völkerrecht gibt, möchten wir trotzdem einige allgemeine Quellen sammeln, die sich besonders gut für einen Einstieg eignen. Wenn du überhaupt nicht weist, wo du anfangen sollst, solltest du die allgemeinsten Quellen konsultieren.
