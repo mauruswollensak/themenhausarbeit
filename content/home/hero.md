@@ -52,4 +52,5 @@ hero_media = "book.svg"
 +++
 
 Deine Adresse für die Vorbereitung bzw. Unterstützung bei einer Themenhausarbeit im Völkerrecht. Ein Projekt von Studierenden für Studierende.  
+  
 (Aktuell befindet sich die Webseite noch im Aufbau. Wenn du mithelfen willst, melde dich gerne unter <mauruswollensak@gmail.com>)

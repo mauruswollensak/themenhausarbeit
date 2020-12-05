@@ -12,7 +12,7 @@ Autor: Maurus Wollensak
 
 ## Vorwort
 
-Quellen kann man auf unterschiedlichste Weiße beziehen. Es gibt kein richtig oder falsch, sondern allenfalls gute und schlechte Wege. Dieser Eintrag verfolgt keinen holistischen Ansatz, sonder setzt viel mehr Wert auf eine stabile Basis, die nach belieben und präferenzen erweitert werden kann. Wie alles im Leben, ist auch die Quellenarbeit geschmackssache.
+Quellen kann man auf unterschiedlichste Weise beziehen. Es gibt kein richtig oder falsch, sondern allenfalls gute und schlechte Wege. Dieser Eintrag verfolgt keinen holistischen Ansatz, sonder setzt viel mehr Wert auf eine stabile Basis, die nach belieben und Präferenzen erweitert werden kann. Wie alles im Leben, ist auch die Quellenarbeit Geschmackssache.
 
 ## Bibliothekssysteme
 Bibliothekssysteme sind nicht nur geeignet den Bestand vor Ort zu ermitteln, sondern dienen darüber hinaus auch um festzustellen, welche Quellen theoretisch verfügbar sind. Ein geübter Umgang erleichtert das Auffinden von Quellen, selbst wenn diese nicht vor Ort verfügbar sind (regelmäßig besteht die Möglichkeit der Fernleihe). Es sollte die erweiterte Suche genutzt werden, um best möglichste Ergebnisse zu erzielen. Es folgen hervorragende Systeme:
