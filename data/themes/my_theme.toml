@@ -1,5 +1,12 @@
 # Theme metadata
-name = "Minimal"
+name = "TH_CI"
+
+# CI Colors
+# #69140E
+# #E98A15
+# #E0E0E2
+# #6B6D76
+# #01295F
 
 # Is theme light or dark?
 light = true
@@ -8,11 +15,11 @@ light = true
 primary = "#01295f"
 
 # Menu
-menu_primary = "#fff"
+menu_primary = "#FFF"
 menu_text = "#686D76"
-menu_text_active = "#01295f"
-menu_title = "#2b2b2b"
+menu_text_active = "#E98A15"
+menu_title = "#69140E"
 
 # Home sections
-home_section_odd = "rgb(255, 255, 255)"
-home_section_even = "rgb(247, 247, 247)"
+home_section_odd = "#FFF"
+home_section_even = "#E0E0E2"
