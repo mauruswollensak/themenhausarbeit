@@ -1,7 +1,6 @@
 ---
 # Title, summary, and page position.
 linktitle: TH Research Guide
-weight: 80
 icon: parachute-box
 icon_pack: fas
 
@@ -9,4 +8,7 @@ icon_pack: fas
 title: TH Research Guide
 date: 
 type: book  # Do not modify.
+weight: 80
 ---
+
+Obgleich es viele Forschungsleitfäden für das Völkerrecht gibt, möchten wir trotzdem einige allgemeine Quellen sammeln, die sich besonders gut für einen Einstieg eignen. Wenn du überhaupt nicht weist, wo du anfangen sollst, solltest du die allgemeinsten Quellen konsultieren.

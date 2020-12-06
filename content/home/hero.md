@@ -51,4 +51,6 @@ hero_media = "book.svg"
 #  label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Show your product version here:<!-- V --></span>'
 +++
 
-Deine Adresse für die Vorbereitung auf eine Themenhausarbeit im Völkerrecht (die Webseite ist aktuell noch im Aufbau).
+Deine Adresse für die Vorbereitung bzw. Unterstützung bei einer Themenhausarbeit im Völkerrecht. Ein Projekt von Studierenden für Studierende.  
+  
+(Aktuell befindet sich die Webseite noch im Aufbau. Wenn du mithelfen willst, melde dich gerne unter <mauruswollensak@gmail.com>)

@@ -7,7 +7,6 @@ icon_pack: fas
 
 # Page metadata.
 title: Kontakt und Impressum
-date: 2020
 type: book  # Do not modify.
 ---
 ## Angaben gemäß § 5 TMG
