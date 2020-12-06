@@ -13,15 +13,15 @@
   url = "docs/1_quellenarbeit/"
   weight = 20
 
-[[main]]
-  name = "Handwerkszeug"
-  url = "docs/2_handwerkszeug/"
-  weight = 30
+# [[main]]
+#  name = "Handwerkszeug"
+#  url = "docs/2_handwerkszeug/"
+#  weight = 30
 
-[[main]]
-  name = "Schreiben"
-  url = "docs/3_schreiben/"
-  weight = 40
+#[[main]]
+#  name = "Schreiben"
+#  url = "docs/3_schreiben/"
+#  weight = 40
 
 [[main]]
   name = "TH Research Guide"
