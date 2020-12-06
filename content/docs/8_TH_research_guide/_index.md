@@ -12,3 +12,7 @@ weight: 80
 ---
 
 Obgleich es viele Forschungsleitfäden für das Völkerrecht gibt, möchten wir trotzdem einige allgemeine Quellen sammeln, die sich besonders gut für einen Einstieg eignen. Wenn du überhaupt nicht weißt, wo du anfangen sollst, solltest du die allgemeinsten Quellen konsultieren.
+
+Aktuell verfügbar:
+* [Allgemeines Völkerrecht]({{< ref "docs/8_th_research_guide/allgemeines_voelkerrecht.md" >}})
+* [Seevölkerrecht]({{< ref "docs/8_th_research_guide/seevoelkerrecht.md" >}})
