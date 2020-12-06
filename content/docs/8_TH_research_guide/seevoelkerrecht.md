@@ -47,7 +47,7 @@ Info: Die Sortierung ist alphabetisch; persönliche Empfehlungen sind **fett** g
 
 |Zeitschrift|Besonderheit|Link|
 |-|-|-|
-|Ocean Development & International Law|Hat auch Open-Access-Artikel.|[Link]((https://www.tandfonline.com/toc/uodl20/current))|
+|Ocean Development & International Law|Hat auch Open-Access-Artikel.|[Link](https://tandfonline.com/toc/uodl20/current)|
 |Ocean Yearbook||[OCYB](https://brill.com/view/serial/OCYB)|
 
 ## Blogs
