@@ -63,4 +63,4 @@ Info: Die Sortierung ist alphabetisch; persönliche Empfelungen sind **fett** ge
 [Craig Forcese](https://www.craigforcese.com/podcasts)|Im Prinzip eine vollständige Kurzvorlesung über die wichtigsten Aspekte des Völkerrechts. Insbesondere für die Moot-Court-Vorbereitung sehr zu empfehlen.
 |[EJIL:*Live!*](http://ejil.org/live.php)|Die Videos werden regelmäßig passend zu Spezialausgaben der Zeitschrift veröffentlicht.|
 |[International Law MOOC](https://www.edx.org/course/international-law)|Ein nach Anmeldung (kostenloser) Online-Kurs des Professoren Pierre d'Argent der Universität Louvain, der auch [ohne Anmeldung auf anderen Platformen verfügbar](https://www.youtube.com/channel/UCGasG4aiJ2_8ar-EXGHI1kQ/about?disable_polymer=1) ist.
-|[**UN Audiovisual Library**](https://legal.un.org/avl/historicarchives.html)|Ein kurzer Überblick zu den großen Themen des Völkerrechts.|
+|[**UN Audiovisual Library**](https://legal.un.org/avl/intro/introduction.html?tab=2)|Ein kurzer Überblick zu den großen Themen des Völkerrechts.|
