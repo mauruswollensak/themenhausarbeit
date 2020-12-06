@@ -33,7 +33,7 @@ Info: Die Sortierung ist alphabetisch; persönliche Empfehlungen sind **fett** g
 |Churchill & Lowe (1999) The Law of the Sea||[GVK]()/ [GVK]()|
 |Graf Vitzthum (Hrsg.) (2006) Handbuch des Seerechts|Älter, aber immer noch viel verwendet.|[GVK]()/ [GVK]()|
 |**Tanaka (2019) The International Law of the Sea**|Sehr verständlich geschrieben.|[GVK]()/ [GVK]()|
-|Rothwell, Stephens (2016) The International Law of the Sea||[GVK]()/ [GVK]()|
+|Rothwell & Stephens (2016) The International Law of the Sea||[GVK]()/ [GVK]()|
 |Rothwell, Oude Elferink & Scott (Hrsg.) (2015) Oxford Handbook of the Law of the Sea||[GVK]()/ [GVK]()|
 
 ## Kommentare
