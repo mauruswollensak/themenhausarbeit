@@ -30,6 +30,7 @@ Info: Die Sortierung ist alphabetisch; persönliche Empfehlungen sind **fett** g
 
 |Werk|Besonderheit|Analog/ digital|
 |-|-|-|
+|Attard (2014) The IMLI Manual on International Maritime Law: Vol. 1 (The Law of the Sea)||[GVK](https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=805624031)<br>[GVK](https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1497541832)|
 |Churchill & Lowe (1999) The Law of the Sea||[GVK](https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=30282216X)/<br>~~GVK~~|
 |Graf Vitzthum (Hrsg.) (2006) Handbuch des Seerechts|Älter, aber immer noch viel verwendet.|[GVK](https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=510818595)/<br>~~GVK~~|
 |**Tanaka (2019) The International Law of the Sea**|Sehr verständlich geschrieben.|[GVK](https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1664141723)/<br>~~GVK~~|
