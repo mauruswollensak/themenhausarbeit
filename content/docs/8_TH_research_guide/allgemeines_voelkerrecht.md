@@ -18,10 +18,10 @@ Info: Die Sortierung ist alphabetisch; persönliche Empfelungen sind **fett** ge
 
 |Werk|Besonderheit|Analog/ digital|
 |-|-|-|
-|von Arnauld (2019) Völkerrecht|Bietet weitergehende Literaturhinweise zu jedem Kapitel.|[GVK]()/ [GVK]()|
-|Crawford (2019) Brownlie’s Principles of Public International Law|Gegenüber einem deutschen Kurzlehrbuch vertiefterer Einstieg, besonders für Case Law interessant.|[GVK]()/ [GVK]()|
-|Hernandez (2019) International Law| Kostenloser Zugriff auf erweiterten [digitalen Content](https://learninglink.oup.com/access/hernandez-resources#tag_all-chapters).| [GVK]()|
-|Hobe (2020) Einführung in das Völkerrecht|Praktische Wiederholungsfragen zusätzlich online verfügbar.|[GVK]()/ [GVK]()|
+|von Arnauld (2019) Völkerrecht|Bietet weitergehende Literaturhinweise zu jedem Kapitel.|[GVK](https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1670402029)/ [GVK](https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1679999087)|
+|Crawford (2019) Brownlie’s Principles of Public International Law|Gegenüber einem deutschen Kurzlehrbuch vertiefterer Einstieg, besonders für Case Law interessant.|[GVK](https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1067512896)/ [GVK](https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1684945178)|
+|Hernandez (2019) International Law| Kostenloser Zugriff auf erweiterten [digitalen Content](https://learninglink.oup.com/access/hernandez-resources#tag_all-chapters).| [GVK](https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1067519181)/ ~~GVK~~|
+|Hobe (2020) Einführung in das Völkerrecht|Praktische Wiederholungsfragen zusätzlich online verfügbar.|[GVK](https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1686112904)/ [GVK](https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1698357508)|
 |Ipsen (Hrsg.) (2018) Völkerrecht|Ausführlicherer Einstieg ins Thema. Vorsicht geboten beim Zitieren: unterschiedliche Autor*innen.| [GVK]()
 |Klabbers (2021) International Law || [GVK]()|
 |Shaw (2017) International Law|Neue Auflage wird im Mai 2021 erwartet.|[GVK]()|
