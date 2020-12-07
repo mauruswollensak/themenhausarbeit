@@ -19,7 +19,7 @@ Bibliothekssysteme sind nicht nur geeignet den Bestand vor Ort zu ermitteln, son
 
 |Name|Besonderheit|
 |-|-|
-|[**Gemeinsamer Verbundkatalog**](https://kxp.k10plus.de/DB=2.1/SET=1/TTL=2/ADVANCED_SEARCHFILTER)|Zusammenschluss vieler deutscher Bibilotheken mit vielen Funktionen (z. B. Inhaltsverzeichnisse).|
+|[**Gemeinsamer Verbundkatalog (GVK)**](https://kxp.k10plus.de/DB=2.1/SET=1/TTL=2/ADVANCED_SEARCHFILTER)|Zusammenschluss vieler deutscher Bibilotheken mit vielen Funktionen (z. B. Inhaltsverzeichnisse).|
 |[**Peace Palace Library**](https://peacepalace.on.worldcat.org/advancedsearch?databaseList=283)| Bibliothek im Friedenspalast in Den Haag (zusammen mit dem IGH und dem PCA) mit einer Riesenauswahl an analogen und digitalen Quellen|
 |[Max-Planck Kataloge](https://aleph.mpg.de)|Insbesondere die MPI Heidelberg, Luxemburg und Freiburg. Gute systematische Suche. Sehr hohe Quellenlage.|
 |[Staatsbibliothek zu Berlin](http://stabikat.de)|Viele digitale Quellen. Bis zum 30. September 2021 (Stand: 12.2020) ist die Nutzung [kostenlos](https://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/benutzungsabteilung/pdf/Gebuehrenordnung.pdf). Einen Ausweis zu beantragen lohnt sich also.|
