@@ -32,7 +32,7 @@ Bei Forschungsleitfäden handelt es sich um Zusammenstellungen von wichtigen Mat
 
 |Leitfaden|Besonderheit|
 |-|-|
-|[**Peace Palace Library Research Guides**](https://www.peacepalacelibrary.nl/research-guides/)| Sehr ausführlich und für viele Völkerrechtsteilbereiche verfügbar.|
+|[**Peace Palace Library Research Guides**](https://www.peacepalacelibrary.nl/collection/about-the-collection/collection-profile-topics/)| Sehr ausführlich und für viele Völkerrechtsteilbereiche verfügbar.|
 |[ASIL Electronic Resource Guide](https://www.asil.org/resources/electronic-resource-guide-erg)|Viele Teilbereiche verfügbar. Aktuell leider mehrere Jahre alt.|
 |[UN Documentation Research Guide](http://research.un.org/en/docs/law)||
 |[University of Melbourne Research Guide](https://unimelb.libguides.com/internationallaw/intro)||

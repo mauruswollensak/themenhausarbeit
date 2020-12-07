@@ -15,3 +15,4 @@ Obgleich es viele Forschungsleitfäden für das Völkerrecht gibt, möchten wir 
 Aktuell verfügbar:
 * [Allgemeines Völkerrecht]({{< ref "docs/8_th_research_guide/allgemeines_voelkerrecht.md" >}})
 * [Seevölkerrecht]({{< ref "docs/8_th_research_guide/seevoelkerrecht.md" >}})
+* [Rechtsprechung]({{< ref "docs/8_th_research_guide/rechtsprechung.md" >}})
