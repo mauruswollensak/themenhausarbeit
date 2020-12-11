@@ -4,6 +4,7 @@ linktitle: Wo finde ich weitere Informationen zu Themenhausarbeiten?
 type: book
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 19
+draft: true
 ---
 
 Autor: Maurus Wollensak
