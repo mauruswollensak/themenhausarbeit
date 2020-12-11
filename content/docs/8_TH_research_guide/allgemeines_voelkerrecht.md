@@ -43,7 +43,7 @@ Info: Die Sortierung ist alphabetisch; persönliche Empfelungen sind **fett** ge
 
 |Enzyklopädie|Besonderheit|
 |-|-|
-|Grant & Barker (2009) Encyclopaedic Dictionary of International Law| [GVK]()/ [GVK]()|
+|Grant & Barker (2009) Encyclopaedic Dictionary of International Law| [GVK](https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=598920889)/ [GVK](https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1654995657)|
 |[**Max Plack Encyclopedia on Public International Law**](https://opil.ouplaw.com/home/mpil)|
 
 ## Blogs
