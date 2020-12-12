@@ -8,15 +8,15 @@
   url = "docs/"
   weight = 1
 
-[[main]]
-  name = "Quellenarbeit"
-  url = "docs/1_quellenarbeit/"
-  weight = 2
-
 # [[main]]
 #  name = "Handwerkszeug"
-#  url = "docs/2_handwerkszeug/"
+#  url = "docs/1_handwerkszeug/"
 #  weight = 3
+
+[[main]]
+  name = "Quellenarbeit"
+  url = "docs/2_quellenarbeit/"
+  weight = 2
 
 #[[main]]
 #  name = "Schreiben"

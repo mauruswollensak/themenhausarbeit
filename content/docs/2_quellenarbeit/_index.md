@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Quellenarbeit
-weight: 10
+weight: 20
 icon: search
 icon_pack: fas
 
@@ -16,4 +16,4 @@ Dieser Bereich widmet sich der Frage, wie hilfreiche Quellen zur Erstellung der 
 
 ## Aktuelle Antworten
 
-* [Wo finde ich Quellen?]({{< ref "docs/1_quellenarbeit/wo_finde_ich_quellen.md" >}})
+* [Wo finde ich Quellen?]({{< ref "docs/2_quellenarbeit/wo_finde_ich_quellen.md" >}})

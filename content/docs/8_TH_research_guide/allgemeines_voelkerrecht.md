@@ -12,14 +12,14 @@ Autorin: Laura-Theresa Godau
 
 Sowohl für selbstgewählte als auch für vergebene Themen gilt: in der Masse der Literatur ist man schnell verloren und weiß oft gar nicht, wie der beste Einstieg zu finden ist. Unten aufgelistet sind daher einige Werke, die insbesondere im allgemeinen Völkerrecht, aber auch als Einstieg in besondere Bereiche, eine Orientierung versprechen. Für den Einstieg in eine englischsprachige Themenhausarbeit bietet es sich daher besonders an mit z.B. Crawfords Brownlie's Principles zu starten, um sich einen Überblick über die Terminologie zu verschaffen. Als Standardwerk kann von Arnaulds Lehrbuch einen guten Überblick über sonstige (Standard-)Literatur zum eigenen Thema bieten. Die Autor*innen, die sich im Ipsen mit den jeweiligen Teilbereichen beschäftigen, können einen guten Ausgangspunkt für von ihnen verfasste Texte im Bereich darstellen.
 
-Info: Die Sortierung ist alphabetisch; persönliche Empfelungen sind **fett** gedruckt.
+> Info: Die Sortierung ist alphabetisch; persönliche Empfelungen sind **fett** gedruckt.
 
 ## Bücher
 
 |Werk|Besonderheit|Analog/ digital|
 |-|-|-|
-|von Arnauld (2019) Völkerrecht|Bietet weitergehende Literaturhinweise zu jedem Kapitel.|[GVK]()/ [GVK]()|
-|Crawford (2019) Brownlie’s Principles of Public International Law|Gegenüber einem deutschen Kurzlehrbuch vertiefterer Einstieg, besonders für Case Law interessant.|[GVK]()/ [GVK]()|
+|von Arnauld (2019) Völkerrecht|Bietet weitergehende Literaturhinweise zu jedem Kapitel (auch [online](https://www.wsi.uni-kiel.de/de/forschung/aktuelle-veroeffentlichungen/arnauld/andreas-von-arnauld-voelkerrecht-4-auflage) verfügbar).|[GVK](https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1670402029)/ [GVK](https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1679999087)|
+|Crawford (2019) Brownlie’s Principles of Public International Law|Gegenüber einem deutschen Kurzlehrbuch vertiefterer Einstieg, besonders für Case Law interessant.|[GVK](https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1067512896)/ [GVK](https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1684945178)|
 |Hernandez (2019) International Law| Kostenloser Zugriff auf erweiterten [digitalen Content](https://learninglink.oup.com/access/hernandez-resources#tag_all-chapters).| [GVK](https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1067519181)/ ~~GVK~~|
 |Hobe (2020) Einführung in das Völkerrecht|Praktische Wiederholungsfragen zusätzlich online verfügbar.|[GVK](https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1686112904)/ [GVK](https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1698357508)|
 |Ipsen (Hrsg.) (2018) Völkerrecht|Ausführlicherer Einstieg ins Thema. Vorsicht geboten beim Zitieren: unterschiedliche Autor*innen.| [GVK](https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=896763765)/ [GVK](https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1684385296)|
@@ -43,7 +43,7 @@ Info: Die Sortierung ist alphabetisch; persönliche Empfelungen sind **fett** ge
 
 |Enzyklopädie|Besonderheit|
 |-|-|
-|Grant & Barker (2009) Encyclopaedic Dictionary of International Law| [GVK]()/ [GVK]()|
+|Grant & Barker (2009) Encyclopaedic Dictionary of International Law| [GVK](https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=598920889)/ [GVK](https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1654995657)|
 |[**Max Plack Encyclopedia on Public International Law**](https://opil.ouplaw.com/home/mpil)|
 
 ## Blogs
