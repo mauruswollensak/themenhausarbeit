@@ -12,6 +12,8 @@ Autor: Maurus Wollensak
 
 Quellen kann man auf unterschiedlichste Weise beziehen. Es gibt kein richtig oder falsch, sondern allenfalls gute und schlechte Wege. Dieser Eintrag verfolgt keinen holistischen Ansatz, sondern setzt viel mehr Wert auf eine stabile Basis, die nach Belieben und Präferenzen erweitert werden kann. Wie alles im Leben, ist auch die Quellenarbeit Geschmackssache.
 
+> Info: Die Sortierung ist alphabetisch; persönliche Empfehlungen sind **fett** gedruckt.
+
 ## Bibliothekssysteme
 Bibliothekssysteme sind nicht nur geeignet den Bestand vor Ort zu ermitteln, sondern dienen darüber hinaus der Feststellung, welche Quellen theoretisch verfügbar sind. Ein geübter Umgang erleichtert das Auffinden von Quellen, selbst wenn diese nicht vor Ort verfügbar sind (regelmäßig besteht die Möglichkeit der Fernleihe). Es sollte die erweiterte Suche genutzt werden, um bestmögliche Ergebnisse zu erzielen. Es folgen hervorragende Systeme:
 
