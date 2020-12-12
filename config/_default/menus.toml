@@ -8,10 +8,10 @@
   url = "docs/"
   weight = 1
 
-# [[main]]
-#  name = "Handwerkszeug"
-#  url = "docs/1_handwerkszeug/"
-#  weight = 3
+ [[main]]
+  name = "Handwerkszeug"
+  url = "docs/1_handwerkszeug/"
+  weight = 3
 
 [[main]]
   name = "Quellenarbeit"
