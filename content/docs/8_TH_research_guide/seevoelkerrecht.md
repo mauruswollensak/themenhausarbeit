@@ -12,7 +12,7 @@ Autor: Maurus Wollensak
 
 Aufgezählt werden nur spezifische Quellen des Seevölkerrechts – allgemeine Quellen finden sich unter [**Allgemeines Völkerrecht**]({{< ref "docs/8_th_research_guide/allgemeines_voelkerrecht.md" >}}).
 
-Info: Die Sortierung ist alphabetisch; persönliche Empfehlungen sind **fett** gedruckt.
+> Info: Die Sortierung ist alphabetisch; persönliche Empfehlungen sind **fett** gedruckt.
 
 ## Andere Forschungsleitfäden
 
