@@ -12,7 +12,7 @@ Autor: Maurus Wollensak
 
 Die Rechtsprechung spiel im Völkerrecht eine tragende Rolle. So wird regelmäßig nur nach einem wegweisenden Urteil ein Gewohnheitsrecht anerkannt. Dieser Leitfaden beschäftigt sich mit der Frage, wie man an solche Urteile kommt.
 
-Info: Die Sortierung ist alphabetisch; persönliche Empfehlungen sind **fett** gedruckt.
+> Info: Die Sortierung ist alphabetisch; persönliche Empfehlungen sind **fett** gedruckt.
 
 ## Andere Forschungsleitfäden
 
