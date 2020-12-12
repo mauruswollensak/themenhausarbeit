@@ -11,12 +11,12 @@
  [[main]]
   name = "Handwerkszeug"
   url = "docs/1_handwerkszeug/"
-  weight = 3
+  weight = 2
 
 [[main]]
   name = "Quellenarbeit"
   url = "docs/2_quellenarbeit/"
-  weight = 2
+  weight = 3
 
 #[[main]]
 #  name = "Schreiben"
