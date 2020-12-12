@@ -2,7 +2,6 @@
 title: Wo finde ich weitere Informationen zu juristischen Themenhausarbeiten?
 linktitle: Wo finde ich weitere Informationen zu juristischen Themenhausarbeiten?
 type: book
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 19
 ---
 

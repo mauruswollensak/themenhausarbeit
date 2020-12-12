@@ -2,8 +2,6 @@
 title: Wie zitiere ich?
 linktitle: Wie zitiere ich?
 type: book
-date: 
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 11
 draft: true
 ---

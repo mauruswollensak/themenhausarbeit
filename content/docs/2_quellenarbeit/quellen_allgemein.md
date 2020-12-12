@@ -3,8 +3,6 @@ title: Wo finde ich Quellen?
 linktitle: Wo finde ich Quellen?
 author: Maurus Wollensak
 type: book
-date: 
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 21
 ---
 

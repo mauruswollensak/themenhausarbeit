@@ -1,11 +1,8 @@
 ---
-# Title, summary, and page position.
 linktitle: Kontakt und Impressum
 weight: 90
 icon: gavel
 icon_pack: fas
-
-# Page metadata.
 title: Kontakt und Impressum
 type: book  # Do not modify.
 ---

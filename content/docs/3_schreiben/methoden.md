@@ -2,9 +2,6 @@
 title: Welche Methode verwende ich?
 linktitle: Welche Methode verwende ich?
 type: book
-date: 
-
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 31
 draft: true
 ---
