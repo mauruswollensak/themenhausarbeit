@@ -21,6 +21,7 @@ Die wichtigsten Plattformen und Informationssysteme findet ihr hier. Zudem samme
 * [Hein Online](https://home.heinonline.org)
 * [JStore – Law](https://www.jstor.org/subject/law)
 * [Kluwer Law Online](https://kluwerlawonline.com)
+* [Oxford Academic – Law](https://academic.oup.com/journals/pages/law)
 * [Oxford Scholarship Online](https://oxford.universitypressscholarship.com)
 * [Springer Link – Internationales Recht](https://www.springer.com/de/jura/internationales-recht)
 * [Westlaw International](http://www.westlawinternational.com)
