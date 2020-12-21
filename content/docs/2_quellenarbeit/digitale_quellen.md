@@ -38,3 +38,4 @@ Die wichtigsten Plattformen und Informationssysteme findet ihr hier. Zudem samme
 * [Elektronische Zeitschriftenbibliothek](https://www.sub.uni-hamburg.de/en/recherche/elektronische-zeitschriftenbibliothek.html)
 * [E-Books](https://www.sub.uni-hamburg.de/en/recherche/e-books.html)
 * [Alle Datenbanken](https://www.sub.uni-hamburg.de/de/nc/recherche/datenbank-informationssystem.html)
+* [Online-Fernleihe Stabi Hamburg](https://www.sub.uni-hamburg.de/en/service/leihen-liefern/fernleihe-dokumentlieferung/online-fernleihe.html)
